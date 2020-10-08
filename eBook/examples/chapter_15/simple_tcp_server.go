@@ -4,8 +4,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"os"
 	"net"
+	"os"
 )
 
 const maxRead = 25
